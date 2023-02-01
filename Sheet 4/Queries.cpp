@@ -53,7 +53,7 @@ long long binarySearch(long long  arr[], long long b, long long n)
 
 	}
 	if (arr[mid] <= b) {
-		return mid + 1; // 3shan yrg3lo el 3add elly asgher mnooo
+		return mid + 1; // 3shan yrg3lo 3add el arqam elly asgher mno
 	}
 
 	return mid;
